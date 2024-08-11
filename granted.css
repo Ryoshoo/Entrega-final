@@ -1,0 +1,46 @@
+#title {
+
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#column1 {
+
+    margin-top: 100px;
+    border: 1px;
+    border-color: black;
+
+}
+
+.label {
+
+    text-align: left;
+}
+
+#column2 {
+
+    margin-left: 200px;
+}
+
+.dropdown {
+
+    margin-bottom: 20px;
+}
+
+#DropClient {
+   padding: 8px;
+   border-radius: 6px;
+   
+}
+
+#DropHours {
+    padding: 8px;
+    border-radius: 6px;
+
+
+}
+
+#card {
+
+    margin-bottom: 10px;
+}

@@ -1,0 +1,36 @@
+
+#image {
+    flex-grow: 1;
+    background-image: url("shibuya.jpeg");
+    width: 800px;
+    height: 1080px;
+    margin-right: -250px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#sec {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+#form {
+    flex-grow: 1;
+    margin-right: 200px;
+    width: 500px;
+}
+
+#create {
+
+    margin-top: 20px;
+}
+
